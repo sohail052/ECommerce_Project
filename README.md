@@ -50,7 +50,7 @@ The website’s style is consistent and engaging, thanks to individual CSS files
 Clone the repository and install dependencies to start your local version of Shopper. Dive into the codebase to see how each component contributes to the full e-commerce experience!
 
 ```bash
-git clone https://github.com/your-username/shopper.git
+git clone https://github.com/sohail052/ECommerce_Project.git
 cd shopper
 npm install
 npm start
